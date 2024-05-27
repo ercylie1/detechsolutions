@@ -1159,7 +1159,7 @@ Team Style
 
 .team-member img {
   max-width: 90px;
-  border-radius: 50%;
+  border-radius: 20%;
   position: absolute;
   top: -110px;
   left: 78%;
