@@ -1162,7 +1162,7 @@ Team Style
   border-radius: 20%;
   position: absolute;
   top: -110px;
-  left: 78%;
+  left: 80%;
   transform: translateX(-110px);
   transition: all .3s;
 }
